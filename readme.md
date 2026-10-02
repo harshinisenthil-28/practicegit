@@ -1,6 +1,5 @@
 # Git course
-Im new to git pa.
-
-# This is change from feature branch
 # This is feature 2.0
 Hey hi hello.
+# Git course
+Im new to git pa.
